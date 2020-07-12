@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lily-wu/static/css/main.5f361e03.chunk.css",
+    "main.js": "/lily-wu/static/js/main.0316e5a6.chunk.js",
+    "main.js.map": "/lily-wu/static/js/main.0316e5a6.chunk.js.map",
+    "runtime-main.js": "/lily-wu/static/js/runtime-main.281676c4.js",
+    "runtime-main.js.map": "/lily-wu/static/js/runtime-main.281676c4.js.map",
+    "static/js/2.3ff3e659.chunk.js": "/lily-wu/static/js/2.3ff3e659.chunk.js",
+    "static/js/2.3ff3e659.chunk.js.map": "/lily-wu/static/js/2.3ff3e659.chunk.js.map",
+    "index.html": "/lily-wu/index.html",
+    "precache-manifest.f2f5101b1d68c425df920d9a148cbfb2.js": "/lily-wu/precache-manifest.f2f5101b1d68c425df920d9a148cbfb2.js",
+    "service-worker.js": "/lily-wu/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/lily-wu/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.3ff3e659.chunk.js.LICENSE.txt": "/lily-wu/static/js/2.3ff3e659.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/lily-wu/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.281676c4.js",
+    "static/js/2.3ff3e659.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.0316e5a6.chunk.js"
+  ]
+}
