@@ -1,13 +1,13 @@
 import React from 'react';
-import { Avatar, Layout, Typography, Divider} from 'antd';
+import { Avatar, Layout, Typography, Divider } from 'antd';
 import './HomePage.css';
-import profilePhoto from './avatar.jpeg'; 
+import profilePhoto from './avatar.jpeg';
 import Typing from 'react-typing-animation';
 
 function HomePage() {
-  const AnimatedTypingComponent=(
+  const AnimatedTypingComponent = (
     <Typing speed={100} loop={true}>
-      <span>welcome</span>
+      <Typography.Title id="welcome" code>Welcome</Typography.Title>
       <Typing.Reset delay={1000} />
     </Typing>
   );
@@ -16,7 +16,7 @@ function HomePage() {
 
     <div className="HomePage">
       <Layout>
-        <Layout.Header  className="header" >
+        <Layout.Header className="header" >
           {/* <Avatar shape="circle"  src={profilePhoto} /> */}
           {AnimatedTypingComponent}
         </Layout.Header>

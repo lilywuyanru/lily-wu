@@ -1,0 +1,23 @@
+.Experience {
+    top:100%;
+    height: 100vh;
+}
+
+.experience-title{
+    height: 100vh;
+    display:block ;
+    position: absolute;
+    top: 120%;
+    left: 15%;
+    text-align: left;
+  }
+  
+.timeline{
+    display: block;
+    width: 70%;
+    height: 100px;
+    margin: 0 auto;
+    position: absolute;
+    top: 160%;
+    left: 15%;
+}

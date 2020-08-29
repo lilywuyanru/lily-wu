@@ -3,18 +3,19 @@
   background-color: #d3d3d3;
 }
 .header{
-  background-color: white;
   display: flex;
-  align-items: left;
+  position: absolute;
+  left: 5%;
+  text-align: left;
+  color: white;
 }
 
 .content{
-  height: 100vh;
   display:block ;
-  align-items: center;
   position: absolute;
-  width: 50%;
   top: 40%;
+  left: 15%;
+  text-align: left;
 }
 
 #title{
