@@ -1,0 +1,27 @@
+.HomePage {
+  height: 100vh;
+  background-color: #d3d3d3;
+}
+.header{
+  display: flex;
+  position: absolute;
+  left: 5%;
+  text-align: left;
+  color: white;
+}
+
+.content{
+  display:block ;
+  position: absolute;
+  top: 40%;
+  left: 15%;
+  text-align: left;
+}
+
+#title{
+  font-size: 300%;
+}
+
+#description{
+  font-size: larger;
+}
